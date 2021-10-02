@@ -217,7 +217,7 @@ a{
 
     .content{
         margin-left: 25px;
-        margin-top: 40%;
+        margin-top: 65%;
         width: 400px;
     }
 
@@ -233,10 +233,11 @@ a{
 
     .content p{
         font-size: 13px;
+        width: 400px;
     }
 
     .free{
-        width: 200px;
+        width: 100px;
     }
 }
 
