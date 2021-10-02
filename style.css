@@ -167,6 +167,11 @@ a{
     body {
       background-color: lightblue;
       overflow: hidden;
+      width: 100%;
+    }
+
+    .header{
+        width: 95%;
     }
 
     .hamburger {
@@ -218,7 +223,7 @@ a{
 
     .content{
         margin-left: 25px;
-        margin-top: 60%;
+        margin-top: 68%;
         width: 350px;
     }
 
@@ -242,7 +247,6 @@ a{
     }
     .gg{
         height: 105vh;
-        width: 100%;
     }
 }
 
